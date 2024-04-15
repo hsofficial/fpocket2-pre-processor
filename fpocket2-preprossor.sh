@@ -1,6 +1,6 @@
 #!/bin/bash
 # original author:kangsgo (https://kangsgo.cn/p/%E8%87%AA%E5%86%99focket2-%E4%B8%ADmd%E5%A4%84%E7%90%86%E8%84%9A%E6%9C%AC/)
-# KR trans and optimizw : dlwlrma@pusan.ac.kr
+# KR trans and optimize : dlwlrma@pusan.ac.kr
 # name: fpocket2 MD preprosessing script
 #
 # method:
